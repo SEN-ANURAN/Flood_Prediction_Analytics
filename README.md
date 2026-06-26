@@ -9,7 +9,6 @@ Here's a complete README for your project:
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://python.org)
 [![Platform](https://img.shields.io/badge/Platform-Google%20Colab-orange.svg)](https://colab.research.google.com)
 [![Data](https://img.shields.io/badge/Data-Sentinel--2%20L2A-green.svg)](https://scihub.copernicus.eu)
-[![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)]()
 
 A remote sensing and machine learning pipeline for automated detection, spatial mapping, and quantitative measurement of land cover changes caused by the South Lhonak Lake Glacial Lake Outburst Flood (GLOF) that devastated Chungthang Valley, North Sikkim, India on October 4, 2023.
 
