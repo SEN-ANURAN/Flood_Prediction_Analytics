@@ -212,7 +212,7 @@ Anuran Sen — B.Tech Computer Science & Engineering, SRM Institute of Science a
 
 Department of Computing Technologies
 SRM Institute of Science and Technology, Kattankulathur – 603 203
-Minor Project | Academic Year 2024–25 | 
+Minor Project | Academic Year 2025–26 | 
 
 ---
 
